@@ -1,0 +1,11 @@
+.search-results{
+    /* display: flex; */
+    margin-bottom: 30px;
+    border-radius: 10px;
+    min-height: 700px;
+    background: url('pop1.png');
+}
+
+/* .left img{
+    height: 100px;
+} */
